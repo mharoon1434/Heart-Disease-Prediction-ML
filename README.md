@@ -132,17 +132,6 @@ seaborn
 scikit-learn
 
 
-## 🚀 Future Improvements
-
-- Use `DecisionTreeClassifier` for the binary classification task.
-- Correct the input data types and validate user inputs.
-- Display precision, recall, F1-score, and a confusion matrix.
-- Add exploratory data analysis and visualizations.
-- Improve outlier handling and missing-value treatment.
-- Build a web interface using Streamlit or Flask.
-- Compare multiple classification algorithms.
-- Save and load the trained model and scaler.
-
 ## ⚠️ Important Notes
 
 - This project is intended for educational and research purposes.
@@ -154,8 +143,5 @@ scikit-learn
 
 **Your Name**
 
-- GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
+- GitHub: https://github.com/mharoon1434
 
-## 📄 License
-
-This project is available for educational use. Add a `LICENSE` file if you want to specify the terms under which others may use, modify, or distribute your code.
