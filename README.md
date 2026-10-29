@@ -66,7 +66,7 @@ The dataset is expected to contain health-related features such as:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Heart-Disease-Prediction.git
+git clone https://github.com/mharoon1434/Heart-Disease-Prediction-ML.git
 ```
 
 Replace `YOUR-USERNAME` with your GitHub username.
