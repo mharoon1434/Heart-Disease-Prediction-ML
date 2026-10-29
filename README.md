@@ -111,39 +111,6 @@ The program will:
 8. Ask the user to enter health-related parameters.
 9. Display the predicted heart disease status and evaluation score.
 
-## 🧠 Machine Learning Workflow
-
-```text
-Heart Disease Dataset
-          |
-          v
-    Data Loading
-          |
-          v
-   Outlier Removal
-          |
-          v
- Feature Selection
-          |
-          v
- Train-Test Split
-          |
-          v
-  Feature Scaling
-          |
-          v
- Decision Tree Model
-          |
-          v
- Model Evaluation
-          |
-          v
-   User Input Data
-          |
-          v
- Heart Disease Prediction
-```
-
 ## 📈 Model Evaluation
 
 The project imports the following evaluation metrics from Scikit-learn:
